@@ -13,7 +13,7 @@
         compatible = "zmk,combos";
 
         new_combo {
-            bindings = <&to 3>;
+            bindings = <&mo 3>;
             key-positions = <38 39>;
         };
     };
